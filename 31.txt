@@ -1,0 +1,14 @@
+Summary,
+Projekt,
+Component,
+Version,
+Severity,
+Priority,
+Status,
+Author,
+Assigned to,
+Steps to reproduce,
+Result,
+Expected result,
+Attachment
+
